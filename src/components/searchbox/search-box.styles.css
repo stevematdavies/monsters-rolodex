@@ -1,0 +1,12 @@
+.search-box {
+    height: 6vh;
+    padding: 2px;
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: 100;
+    font-family: sans-serif;
+    margin: 16px;
+    position: relative;
+    border-radius: 5px;
+    box-shadow: none;
+}
